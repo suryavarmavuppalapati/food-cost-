@@ -1,2 +1,2 @@
-# food-cost-
+# food cost
 analysis
